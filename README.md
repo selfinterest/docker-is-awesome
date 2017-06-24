@@ -5,4 +5,8 @@ This is a single Node app with an Nginx server running as a load balancer in fro
 
 Cool!
 
+To use:
+
+Clone the repo. Then just do `docker-compose up`.
+
 Based on [this](http://anandmanisankar.com/posts/docker-container-nginx-node-redis-example/)
